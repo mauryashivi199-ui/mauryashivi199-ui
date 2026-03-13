@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=45&lines=Automating+Everything+with+DevOps;Cloud+%7C+Linux+%7C+CICD+%7C+Containers;Docker+%7C+Kubernetes+%7C+Terraform;Building+Microservices+Architecture;Jenkins+%7C+AWS+%7C+Git+%7C+Ansible" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Shivangi Maurya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/main/wave.gif" width="35px">, I'm Shivangi Maurya</h1>
 <h3 align="center">🚀 DevOps Enthusiast | CSE Student | Backend Developer | Linux • Docker • AWS | Learning CI/CD</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mauryashivi199-ui&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
