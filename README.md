@@ -66,7 +66,17 @@ Shell scripts for server automation
   <img src="https://streak-stats.demolab.com?user=mauryashivi199-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=888888" />
 </p>
 
----
+### 🗂️ Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauryashivi199-ui&theme=tokyonight" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauryashivi199-ui&theme=tokyonight" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauryashivi199-ui&theme=tokyonight" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauryashivi199-ui&theme=tokyonight" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauryashivi199-ui&theme=tokyonight&utcOffset=5.5" width="24%"/>
+</p>
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi-maurya-bba074380)
