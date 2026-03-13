@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivangi Maurya</h1>
-<h3 align="center">🚀 CSE Student | DevOps Learner | Cloud Enthusiast</h3>
+<h3 align="center">🚀 🚀 DevOps Enthusiast | CSE Student | Linux • Docker • AWS | Learning CI/CD</h3>
 
 ---
 
@@ -10,7 +10,19 @@
 - 📍 Based in **Lucknow, India**
 
 ---
+## 🚀 Projects
 
+🔹 DevOps CI/CD Pipeline Project  
+Using Jenkins, Docker and GitHub
+
+🔹 AWS Static Website Hosting  
+Deployed website using S3 and CloudFront
+
+🔹 Linux Automation Scripts  
+Shell scripts for server automation
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mauryashivi199-ui)
+![Visitor Count](https://komarev.com/ghpvc/?username=mauryashivi199-ui)
 ### 🛠️ Skills & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
