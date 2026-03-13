@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/main/banner.png" width="100%" alt="Shivangi Maurya Banner"/>
+<img src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/main/banners.png" width="100%" alt="Shivangi Maurya Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=45&lines=Automating+Everything+with+DevOps;Cloud+%7C+Linux+%7C+CICD+%7C+Containers;Docker+%7C+Kubernetes+%7C+Terraform;Building+Microservices+Architecture;Jenkins+%7C+AWS+%7C+Git+%7C+Ansible" alt="Typing SVG" />
 </div>
