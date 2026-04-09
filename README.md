@@ -101,19 +101,45 @@ Fun Fact : I debug in production and call it "live testing" 😂
 ---
 
 <!-- Current Projects Section -->
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-| Project | Tech Stack | Status |
-|---------|-----------|--------|
-| 🗂️ **Auto Log Archiver & Alerting System** | Python, Docker, AWS S3/EC2, GitHub Actions | 🔨 Building |
-| 🖥️ **DevOps Environment Console Dashboard** | React, Bash, Docker | ✅ Done |
-| 👩‍🦺 **SafeHer — Women Safety Web App** | HTML/CSS/JS, Django | ✅ Done |
-| 🎵 **Emotion-Based Music Recommender** | Python, ML | ✅ Done |
-| 🏠 **Smart MaidFinder App** | Django, MySQL, HTML/CSS/JS | ✅ Done |
-| 🏥 **CareNexus — Hospital at Home Platform** | Business Pitch + Tech Design | ✅ Done |
+<div align="center">
+
+### 🗂️ Auto Log Archiver & Alerting System  
+![Status](https://img.shields.io/badge/Status-Building-orange?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Python-Docker-AWS-blue?style=for-the-badge)
 
 ---
 
+### 🖥️ DevOps Environment Console Dashboard  
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=for-the-badge)
+![Tech](https://img.shields.io/badge/React-Bash-Docker-blue?style=for-the-badge)
+
+---
+
+### 👩‍🦺 SafeHer — Women Safety Web App  
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=for-the-badge)
+![Tech](https://img.shields.io/badge/HTML-CSS-JS-Django-purple?style=for-the-badge)
+
+---
+
+### 🎵 Emotion-Based Music Recommender  
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Python-ML-red?style=for-the-badge)
+
+---
+
+### 🏠 Smart MaidFinder App  
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Django-MySQL-Web-yellow?style=for-the-badge)
+
+---
+
+### 🏥 CareNexus — Hospital at Home Platform  
+![Status](https://img.shields.io/badge/Status-Done-brightgreen?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Design-Tech%20Plan-lightgrey?style=for-the-badge)
+
+</div>
 <!-- DevOps Roadmap Progress -->
 
 ## 🚀 DevOps Journey  
