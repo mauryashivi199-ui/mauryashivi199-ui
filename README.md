@@ -1,4 +1,11 @@
+<!-- 🔥 TOP BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/main/banners.png" width="100%" />
+</div>
 
+---
+
+ 
 <div align="center">
 
 <!-- Animated Typing Header -->
