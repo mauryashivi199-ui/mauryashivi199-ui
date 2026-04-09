@@ -115,20 +115,18 @@ Fun Fact : I debug in production and call it "live testing" 😂
 ---
 
 <!-- DevOps Roadmap Progress -->
+
 ## 🚀 DevOps Journey  
 
-🐧 Linux          ██████████ 100% ✅  
-🔧 Git & GitHub   ██████████ 100% ✅  
-🐳 Docker         ████████░░ 80% 🔨  
-☸️ Kubernetes     ██████░░░░ 60% 📚  
-⚙️ CI/CD          █████░░░░░ 50% 📚  
-☁️ AWS            ███████░░░ 70% 🔨  
-🏗️ Terraform      ████░░░░░░ 40% 📚  
-🚀 GitHub Actions ██████░░░░ 60% 🔨  
-🧩 Microservices  ███░░░░░░░ 30% 📚  
-
----
-
+🟢 Linux            ██████████ 100% ✅  
+🟢 Git & GitHub     ██████████ 100% ✅  
+🔵 Docker           ████████░░  80% 🔨  
+🟡 Kubernetes       ██████░░░░  60% 📚  
+🟠 CI/CD            █████░░░░░  50% 📚  
+🔷 AWS              ███████░░░  70% 🔨  
+🟣 Terraform        ████░░░░░░  40% 📚  
+🔵 GitHub Actions   ██████░░░░  60% 🔨  
+🔴 Microservices    ███░░░░░░░  30% 📚  
 <!-- Contribution Snake Animation -->
 ## 🐍 Contribution Graph
 
