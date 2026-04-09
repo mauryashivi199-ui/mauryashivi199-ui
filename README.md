@@ -115,19 +115,17 @@ Fun Fact : I debug in production and call it "live testing" 😂
 ---
 
 <!-- DevOps Roadmap Progress -->
-## 📈 My DevOps Learning Journey (CTS Parakeet)
+## 🚀 DevOps Journey  
 
-```
-Linux Fundamentals      ██████████  100% ✅
-Git & GitHub            ██████████  100% ✅
-Docker                  ████████░░   80% 🔨
-Kubernetes              ██████░░░░   60% 📚
-Jenkins / CI-CD         █████░░░░░   50% 📚
-AWS (EC2, S3, IAM)      ███████░░░   70% 🔨
-Terraform               ████░░░░░░   40% 📚
-GitHub Actions          ██████░░░░   60% 🔨
-Microservices Project   ███░░░░░░░   30% 📚
-```
+🐧 Linux          ██████████ 100% ✅  
+🔧 Git & GitHub   ██████████ 100% ✅  
+🐳 Docker         ████████░░ 80% 🔨  
+☸️ Kubernetes     ██████░░░░ 60% 📚  
+⚙️ CI/CD          █████░░░░░ 50% 📚  
+☁️ AWS            ███████░░░ 70% 🔨  
+🏗️ Terraform      ████░░░░░░ 40% 📚  
+🚀 GitHub Actions ██████░░░░ 60% 🔨  
+🧩 Microservices  ███░░░░░░░ 30% 📚  
 
 ---
 
