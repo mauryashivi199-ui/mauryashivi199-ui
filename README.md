@@ -9,7 +9,7 @@
   <!-- ⚡ ANIMATED MULTI-LINE TYPING EFFECT -->
   <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&height=55&lines=%F0%9F%A4%96+Deploying+RAG+AI+Chat+Systems+%26+Cloud+Microservices;%F0%9F%9A%80+Building+Scalable+Cloud+Infrastructure+%26+Automations;%E2%9A%A1+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD+Pipelines;%F0%9F%92%BB+Full+Stack+Engineering+%7C+Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Spring;%E2%98%81%EF%B8%8F+Code.+Build.+Test.+Deploy.+Scale.+Repeat!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%A4%96+Architecting+RAG+AI+Chat+Systems+%26+Cloud+Pipelines;%F0%9F%9A%80+Building+Scalable+Cloud+Infrastructure+%26+Automations;%E2%9A%A1+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Linux+%E2%80%A2+Terraform;%F0%9F%9B%A0%EF%B8%8F+Zero-Downtime+CI%2FCD+Pipelines+(GitHub+Actions+%26+Jenkins);%F0%9F%92%BB+Full+Stack+Engineering+%7C+Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Spring;%E2%98%81%EF%B8%8F+Code.+Build.+Test.+Deploy.+Scale.+Repeat!" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -42,14 +42,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="62%" valign="top">
       <h3>⚡ <code>system.info --whoami</code></h3>
       
 ```bash
 $ shivangi --status --verbose
 
 [+] USER        : Shivangi Maurya (Shivi)
-[+] PASSION     : DevOps, RAG AI Architectures & Cloud Native Systems
+[+] PASSION     : DevOps Automation, RAG AI & Cloud Native Engineering
 [+] DEGREE      : B.Tech CSE (2023 - 2027) | MGIMT Lucknow 🎓
 [+] TRAINING    : CTS Parakeet — DevOps & Cloud Track 🚀
 [+] TARGET      : Actively seeking DevOps & Cloud Internship Roles 🎯
@@ -61,114 +61,8 @@ $ shivangi --status --verbose
   * ☁️ **Cloud Stack:** AWS (EC2, S3, IAM, VPC), Docker, Kubernetes, Terraform (IaC), GitHub Actions & Jenkins.
   * 💬 **Let's Talk About:** `RAG AI Systems`, `CI/CD Automation`, `Docker & K8s`, `Linux Kernel & Shell`.
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="38%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Developer Animation" style="border-radius:12px; box-shadow: 0 0 20px rgba(0,240,255,0.3);" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED HIGHLIGHT PROJECTS (WITH LIVE DEMOS & SCREENSHOTS) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## 🚀 Featured Engineering Projects
-
-<table>
-  <!-- PROJECT 1: RAG CHAT SYSTEM -->
-  <tr>
-    <td colspan="2" align="center" style="background-color: #0d1117;">
-      <h2 align="center">🤖 RAG Chat Intelligence Platform (Live AI App)</h2>
-      <a href="https://ragchat-app.duckdns.org" target="_blank">
-        <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=80" width="100%" height="220px" style="object-fit: cover; border-radius: 10px; border: 1px solid #00F0FF;" alt="RAG AI Platform Banner" />
-      </a>
-      <p align="center">
-        <b>Production-Grade Retrieval-Augmented Generation (RAG) Conversational System</b> with Vector Embeddings, Contextual Semantic Search, Document QA, and Real-Time Low-Latency AI Streaming.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vector_DB-00F0FF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud_Deployed-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://ragchat-app.duckdns.org" target="_blank">
-          <img src="https://img.shields.io/badge/🔴_LIVE_APP-ragchat--app.duckdns.org-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- PROJECT 2 & 3: EMS 2.0 & CI/CD PIPELINE -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 EMS 2.0 — Enterprise SaaS HRMS</h3>
-      <div align="center">
-        <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=500&q=80" width="100%" height="140px" style="object-fit: cover; border-radius: 8px; border: 1px solid #326CE5;" alt="EMS HRMS Preview" />
-      </div>
-      <p>
-        Commercial Workforce Management Platform featuring JWT authentication, GPS geofenced punch-in, 12% PF automated payroll, and Dockerized backend.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/mauryashivi199-ui/employee-management-system"><b>🔗 View Source Code →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔄 Automated CI/CD Deployment Pipeline</h3>
-      <div align="center">
-        <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=500&q=80" width="100%" height="140px" style="object-fit: cover; border-radius: 8px; border: 1px solid #2088FF;" alt="CI/CD Pipeline Preview" />
-      </div>
-      <p>
-        Zero-downtime continuous integration and automated deployment pipeline targeting AWS EC2 instances with GitHub Actions and Jenkins suites.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      </p>
-      <p align="center">
-        <b>⚡ Production Cloud Deploy</b>
-      </p>
-    </td>
-  </tr>
-
-  <!-- PROJECT 4 & 5: S3 ARCHIVER & SAFEHER -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗂️ Auto Log Archiver & Cloud Alerting</h3>
-      <p>
-        Daemon script to compress multi-GB server logs, stream them to AWS S3 Glacier buckets, and trigger automated webhook alerts.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p align="center">
-        <b>🛠️ SRE Infrastructure Utility</b>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👩‍🦺 SafeHer — Women Safety Web App</h3>
-      <p>
-        Full-stack responsive application with real-time GPS coordinates broadcasting, one-touch SOS emergency dispatcher, and SMS routing.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Geolocation-00D9FF?style=flat-square" />
-      </p>
-      <p align="center">
-        <b>✅ Completed Project</b>
-      </p>
     </td>
   </tr>
 </table>
@@ -178,7 +72,7 @@ $ shivangi --status --verbose
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ INTERACTIVE TECH STACK MATRIX -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack & Cloud Arsenal
 
 <div align="center">
 
@@ -210,11 +104,11 @@ $ shivangi --status --verbose
 
 ```mermaid
 graph LR
-    A[💻 Code Push / PR] -->|Webhook| B[⚙️ GitHub Actions / Jenkins]
-    B -->|PyTest & Linter| C[🧪 Automated Testing]
-    C -->|Build & Package| D[🐳 Docker Image]
-    D -->|Deploy Container| E[☁️ Cloud Host / EC2 / DuckDNS]
-    E -->|Live Service| F[🤖 RAG AI & SaaS Live Apps]
+    A[💻 Code Push / PR] -->|Webhook Trigger| B[⚙️ GitHub Actions / Jenkins]
+    B -->|PyTest & Linter Suites| C[🧪 Automated Testing]
+    C -->|Multi-Stage Build| D[🐳 Docker Image Registry]
+    D -->|Zero-Downtime Deploy| E[☁️ AWS Cloud Host / DuckDNS]
+    E -->|Real-Time Services| F[🤖 RAG AI & SaaS Live Apps]
     
     style A fill:#0d1117,stroke:#00F0FF,stroke-width:2px,color:#fff
     style B fill:#0d1117,stroke:#FF9900,stroke-width:2px,color:#fff
@@ -245,6 +139,137 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 6 FEATURED ENGINEERING PROJECTS MATRIX -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+## 🚀 Featured Engineering Projects Showcase
+
+<table>
+  <!-- ROW 1: RAG AI & EMS 2.0 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤖 RAG Chat Intelligence Platform</h3>
+        <p><b>Production-Grade RAG AI Assistant with Vector Search</b></p>
+      </div>
+      <p>
+        AI-powered conversational intelligence system with vector embeddings, semantic retrieval over custom knowledge docs, contextual memory, and low-latency token streaming.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vector_DB-00F0FF?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://ragchat-app.duckdns.org" target="_blank">
+          <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-ragchat--app.duckdns.org-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💼 EMS 2.0 — Commercial Cloud HRMS</h3>
+        <p><b>Enterprise Workforce Management & SaaS Solution</b></p>
+      </div>
+      <p>
+        Complete HRMS suite with JWT role-based security, GPS geofenced attendance punch-in, automated 12% PF salary generator, candidate pipeline, and Dockerized backend.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mauryashivi199-ui/employee-management-system" target="_blank">
+          <img src="https://img.shields.io/badge/📂_SOURCE_CODE-GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 2: CI/CD PIPELINE & S3 ARCHIVER -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🔄 End-to-End Automated CI/CD Cloud Pipeline</h3>
+        <p><b>Zero-Downtime Continuous Integration & Cloud Deployment</b></p>
+      </div>
+      <p>
+        Fully automated CI/CD pipeline triggered on GitHub Webhooks, executing test suites, building multi-stage Docker images, and deploying to AWS EC2 with health checks.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/⚡_STATUS-Production_Automated-00F0FF?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🗂️ Auto Log Archiver & Cloud Alerting Daemon</h3>
+        <p><b>Automated SRE Log Compression & AWS S3 Storage</b></p>
+      </div>
+      <p>
+        Background system daemon written in Python to compress gigabytes of production logs, stream them to AWS S3 Glacier buckets, and dispatch webhook alerts on errors.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+        <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🛠️_STATUS-SRE_Utility_Tool-blue?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3: SAFEHER & CLOUDOPS CONSOLE -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>👩‍🦺 SafeHer — Women Safety SOS & Geo-Tracker</h3>
+        <p><b>Real-time Emergency Dispatcher & GPS Tracker</b></p>
+      </div>
+      <p>
+        Full-stack responsive application with instant live GPS coordinate broadcast, emergency SMS dispatch gateway, and nearby safe zones mapping.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Geolocation_API-00D9FF?style=flat-square" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/✅_STATUS-Completed_Project-brightgreen?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🖥️ CloudOps Central — DevOps Console Dashboard</h3>
+        <p><b>Real-Time Container & Server Infrastructure Monitor</b></p>
+      </div>
+      <p>
+        Interactive frontend dashboard monitoring Docker container states, CPU/Memory telemetry metrics, server uptime, and active deployment logs.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🚀_STATUS-Active_Build-orange?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 LIVE DYNAMIC ANALYTICS & ACTIVITY GRAPHS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 ## 📊 Real-Time GitHub Analytics
@@ -262,6 +287,21 @@ graph LR
 <div align="center">
   <br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivi199-ui&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+## 🐍 GitHub Contribution Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
