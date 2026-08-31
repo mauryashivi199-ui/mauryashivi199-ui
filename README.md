@@ -1,22 +1,23 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 TOP CUSTOM BANNER PHOTO -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/main/banners.png" width="100%" alt="Shivangi Maurya Banner" style="border-radius: 12px;" />
+</div>
+
 <div align="center">
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <!-- 🚀 DYNAMIC NEON HEADER BANNER -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=240&section=header&text=Shivangi%20Maurya&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Cloud%20Architect%20%7C%20DevOps%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Animated Gradient Wave Subtitle -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=180&section=header&text=Shivangi%20Maurya&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Cloud%20Architect%20%7C%20DevOps%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descSize=19&descAlignY=65&descAlign=50" width="100%" alt="Header Wave" />
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <!-- ⚡ ANIMATED MULTI-LINE TYPING EFFECT -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+  <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%A4%96+Architecting+RAG+AI+Chat+Systems+%26+Cloud+Pipelines;%F0%9F%9A%80+Building+Scalable+Cloud+Infrastructure+%26+Automations;%E2%9A%A1+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+AWS+%E2%80%A2+Linux+%E2%80%A2+Terraform;%F0%9F%9B%A0%EF%B8%8F+Zero-Downtime+CI%2FCD+Pipelines+(GitHub+Actions+%26+Jenkins);%F0%9F%92%BB+Full+Stack+Engineering+%7C+Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Spring;%E2%98%81%EF%B8%8F+Code.+Build.+Test.+Deploy.+Scale.+Repeat!" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-  <!-- 🌐 QUICK ACTION BADGES & LIVE TELEMETRY -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+  <!-- Quick Action Badges & Telemetry -->
   <p align="center">
     <a href="https://www.linkedin.com/in/shivangi-maurya-bba074380" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,11 +27,6 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=mauryashivi199-ui&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/mauryashivi199-ui?style=for-the-badge&color=00F0FF&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
-  </p>
-
-  <!-- 🏆 GITHUB TROPHIES -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mauryashivi199-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
   </p>
 
 </div>
@@ -270,23 +266,24 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 LIVE DYNAMIC ANALYTICS & ACTIVITY GRAPHS -->
+<!-- 📊 LIVE DYNAMIC ANALYTICS & VISUAL CHARTS (100% WORKING) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## 📊 Real-Time GitHub Analytics
+## 📊 Real-Time GitHub Analytics & Graphs
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=mauryashivi199-ui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true" alt="Shivangi's GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryashivi199-ui&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauryashivi199-ui&theme=tokyonight" alt="GitHub Stats Summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauryashivi199-ui&theme=tokyonight" alt="Profile Details" width="48%" />
 </div>
 
 <div align="center">
   <br/>
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mauryashivi199-ui&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauryashivi199-ui&theme=tokyonight" alt="Repos per Language Donut Chart" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauryashivi199-ui&theme=tokyonight" alt="Most Commit Language Bar Graph" width="48%" />
 </div>
 
 <div align="center">
   <br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivi199-ui&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=mauryashivi199-ui&theme=tokyonight&hide_border=true" alt="Continuous GitHub Streak" width="97%" />
 </div>
 
 ---
@@ -297,11 +294,7 @@ graph LR
 ## 🐍 GitHub Contribution Snake Game
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mauryashivi199-ui/mauryashivi199-ui/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Game" width="100%" />
 </div>
 
 ---
