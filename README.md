@@ -36,30 +36,28 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧑‍💻 HOLOGRAPHIC TERMINAL & ABOUT ME -->
+<!-- 🧑‍💻 PROFESSIONAL DEVELOPER TERMINAL & ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
       <h3>⚡ <code>system.info --whoami</code></h3>
       
-```bash
-$ shivangi --status --verbose
-
-[+] USER        : Shivangi Maurya (Shivi)
-[+] PASSION     : DevOps Automation, RAG AI & Cloud Native Engineering
-[+] DEGREE      : B.Tech CSE (2023 - 2027) | MGIMT Lucknow 🎓
-[+] TRAINING    : CTS Parakeet — DevOps & Cloud Track 🚀
-[+] TARGET      : Actively seeking DevOps & Cloud Internship Roles 🎯
-[+] MINDSET     : "Automate everything repeatable, build resilient systems."
-[+] SUPERPOWER  : "I debug in production and call it 'Live Testing' 😎"
+```yaml
+👤 Identity       : Shivangi Maurya (Shivi)
+🏢 Internship     : mCarbon Tech Innovation Pvt. Ltd., Noida (DevOps & Cloud)
+🎓 Education      : B.Tech in CSE (2023 - 2027) | MGIMT Lucknow
+🚀 Core Focus     : Cloud Architecture (AWS), CI/CD Automation, RAG AI & K8s
+🎯 Current Goal   : Seeking DevOps / Cloud Engineering Opportunities
+💡 Philosophy     : "Automate everything repeatable, engineer resilient systems."
+⚡ Superpower     : "I debug in production and call it 'Live Testing' 😎"
 ```
 
-  * 🧠 **Specialization:** End-to-end RAG AI pipelines, Vector Search, Containerized Microservices & Cloud Infrastructure.
-  * ☁️ **Cloud Stack:** AWS (EC2, S3, IAM, VPC), Docker, Kubernetes, Terraform (IaC), GitHub Actions & Jenkins.
-  * 💬 **Let's Talk About:** `RAG AI Systems`, `CI/CD Automation`, `Docker & K8s`, `Linux Kernel & Shell`.
+  * 🏢 **Industry Experience:** Completed DevOps & Cloud Engineering Internship at **mCarbon Tech Innovation Pvt. Ltd., Noida**, building containerized microservices and production workflows.
+  * 🧠 **Specialization:** End-to-end RAG AI pipelines, Vector Embeddings, Multi-Stage Docker, Kubernetes, and AWS Cloud Deployments.
+  * 💬 **Let's Talk About:** `DevOps Pipelines`, `RAG AI Systems`, `Docker & Kubernetes`, `AWS Cloud (EC2, S3, IAM, VPC)`.
     </td>
-    <td width="38%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Developer Animation" style="border-radius:12px; box-shadow: 0 0 20px rgba(0,240,255,0.3);" />
     </td>
   </tr>
@@ -137,20 +135,20 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 6 FEATURED ENGINEERING PROJECTS MATRIX (ALL CLICKABLE & LIVE) -->
+<!-- 🚀 6 FEATURED ENGINEERING PROJECTS MATRIX (WITH MCARBON INTERNSHIP BADGES) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 ## 🚀 Featured Engineering Projects Showcase
 
 <table>
-  <!-- ROW 1: RAG AI & EMS 2.0 -->
+  <!-- ROW 1: RAG AI & EMS 2.0 (BOTH FROM MCARBON INTERNSHIP) -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3><a href="https://ragchat-app.duckdns.org" target="_blank" style="text-decoration: none; color: #00F0FF;">🤖 RAG Chat Intelligence Platform ↗</a></h3>
-        <p><b>Production-Grade RAG AI Assistant with Vector Search</b></p>
+        <p><img src="https://img.shields.io/badge/Internship_Project-mCarbon_Tech_Innovation_Noida-purple?style=flat-square&logo=googlecloud&logoColor=white" /></p>
       </div>
       <p>
-        AI-powered conversational intelligence system with vector embeddings, semantic retrieval over custom knowledge docs, contextual memory, and low-latency token streaming.
+        <b>Built during Internship at mCarbon Tech Innovation Pvt. Ltd., Noida.</b> Production-ready Retrieval-Augmented Generation (RAG) conversational AI platform with vector embeddings, semantic retrieval, document QA, and low-latency token streaming.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -167,10 +165,10 @@ graph LR
     <td width="50%" valign="top">
       <div align="center">
         <h3><a href="https://github.com/mauryashivi199-ui/employee-management-system" target="_blank" style="text-decoration: none; color: #00F0FF;">💼 EMS 2.0 — Commercial Cloud HRMS ↗</a></h3>
-        <p><b>Enterprise Workforce Management & SaaS Solution</b></p>
+        <p><img src="https://img.shields.io/badge/Internship_Project-mCarbon_Tech_Innovation_Noida-purple?style=flat-square&logo=spring&logoColor=white" /></p>
       </div>
       <p>
-        Complete HRMS suite with JWT role-based security, GPS geofenced attendance punch-in, automated 12% PF salary generator, candidate pipeline, and Dockerized backend.
+        <b>Built during Internship at mCarbon Tech Innovation Pvt. Ltd., Noida.</b> Enterprise Workforce Management platform featuring JWT role-based security, GPS geofenced attendance punch-in, automated 12% PF salary generator, and Dockerized multi-tier backend.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
