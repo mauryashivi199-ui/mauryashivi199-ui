@@ -26,7 +26,9 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=mauryashivi199-ui&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/mauryashivi199-ui?style=for-the-badge&color=00F0FF&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+    <a href="https://github.com/mauryashivi199-ui?tab=followers" target="_blank">
+      <img src="https://img.shields.io/github/followers/mauryashivi199-ui?style=for-the-badge&color=00F0FF&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+    </a>
   </p>
 
 </div>
@@ -135,7 +137,7 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 6 FEATURED ENGINEERING PROJECTS MATRIX -->
+<!-- 🚀 6 FEATURED ENGINEERING PROJECTS MATRIX (ALL CLICKABLE & LIVE) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 ## 🚀 Featured Engineering Projects Showcase
 
@@ -144,7 +146,7 @@ graph LR
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🤖 RAG Chat Intelligence Platform</h3>
+        <h3><a href="https://ragchat-app.duckdns.org" target="_blank" style="text-decoration: none; color: #00F0FF;">🤖 RAG Chat Intelligence Platform ↗</a></h3>
         <p><b>Production-Grade RAG AI Assistant with Vector Search</b></p>
       </div>
       <p>
@@ -164,7 +166,7 @@ graph LR
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>💼 EMS 2.0 — Commercial Cloud HRMS</h3>
+        <h3><a href="https://github.com/mauryashivi199-ui/employee-management-system" target="_blank" style="text-decoration: none; color: #00F0FF;">💼 EMS 2.0 — Commercial Cloud HRMS ↗</a></h3>
         <p><b>Enterprise Workforce Management & SaaS Solution</b></p>
       </div>
       <p>
@@ -188,7 +190,7 @@ graph LR
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🔄 End-to-End Automated CI/CD Cloud Pipeline</h3>
+        <h3><a href="https://github.com/mauryashivi199-ui" target="_blank" style="text-decoration: none; color: #00F0FF;">🔄 End-to-End Automated CI/CD Cloud Pipeline ↗</a></h3>
         <p><b>Zero-Downtime Continuous Integration & Cloud Deployment</b></p>
       </div>
       <p>
@@ -201,12 +203,14 @@ graph LR
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/⚡_STATUS-Production_Automated-00F0FF?style=for-the-badge" />
+        <a href="https://github.com/mauryashivi199-ui" target="_blank">
+          <img src="https://img.shields.io/badge/⚡_VIEW_PROJECT-Production_Automated-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Project" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🗂️ Auto Log Archiver & Cloud Alerting Daemon</h3>
+        <h3><a href="https://github.com/mauryashivi199-ui" target="_blank" style="text-decoration: none; color: #00F0FF;">🗂️ Auto Log Archiver & Cloud Alerting Daemon ↗</a></h3>
         <p><b>Automated SRE Log Compression & AWS S3 Storage</b></p>
       </div>
       <p>
@@ -219,7 +223,9 @@ graph LR
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/🛠️_STATUS-SRE_Utility_Tool-blue?style=for-the-badge" />
+        <a href="https://github.com/mauryashivi199-ui" target="_blank">
+          <img src="https://img.shields.io/badge/🛠️_VIEW_PROJECT-SRE_Utility_Tool-blue?style=for-the-badge&logo=github&logoColor=white" alt="View SRE Tool" />
+        </a>
       </p>
     </td>
   </tr>
@@ -228,7 +234,7 @@ graph LR
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>👩‍🦺 SafeHer — Women Safety SOS & Geo-Tracker</h3>
+        <h3><a href="https://github.com/mauryashivi199-ui" target="_blank" style="text-decoration: none; color: #00F0FF;">👩‍🦺 SafeHer — Women Safety SOS & Geo-Tracker ↗</a></h3>
         <p><b>Real-time Emergency Dispatcher & GPS Tracker</b></p>
       </div>
       <p>
@@ -240,12 +246,14 @@ graph LR
         <img src="https://img.shields.io/badge/Geolocation_API-00D9FF?style=flat-square" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/✅_STATUS-Completed_Project-brightgreen?style=for-the-badge" />
+        <a href="https://github.com/mauryashivi199-ui" target="_blank">
+          <img src="https://img.shields.io/badge/✅_VIEW_PROJECT-Completed_Project-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="View SafeHer" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🖥️ CloudOps Central — DevOps Console Dashboard</h3>
+        <h3><a href="https://github.com/mauryashivi199-ui" target="_blank" style="text-decoration: none; color: #00F0FF;">🖥️ CloudOps Central — DevOps Console Dashboard ↗</a></h3>
         <p><b>Real-Time Container & Server Infrastructure Monitor</b></p>
       </div>
       <p>
@@ -257,7 +265,9 @@ graph LR
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/🚀_STATUS-Active_Build-orange?style=for-the-badge" />
+        <a href="https://github.com/mauryashivi199-ui" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_VIEW_PROJECT-Active_Build-orange?style=for-the-badge&logo=github&logoColor=white" alt="View Console" />
+        </a>
       </p>
     </td>
   </tr>
@@ -266,24 +276,18 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 LIVE DYNAMIC ANALYTICS & VISUAL CHARTS (100% WORKING) -->
+<!-- 📊 LIVE DYNAMIC ANALYTICS & VISUAL CHARTS (100% WORKING & RELIABLE) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## 📊 Real-Time GitHub Analytics & Graphs
+## 📊 Real-Time GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauryashivi199-ui&theme=tokyonight" alt="GitHub Stats Summary" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauryashivi199-ui&theme=tokyonight" alt="Profile Details" width="48%" />
+  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=mauryashivi199-ui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true" alt="Shivangi's GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mauryashivi199-ui&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauryashivi199-ui&theme=tokyonight" alt="Repos per Language Donut Chart" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauryashivi199-ui&theme=tokyonight" alt="Most Commit Language Bar Graph" width="48%" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mauryashivi199-ui&theme=tokyonight&hide_border=true" alt="Continuous GitHub Streak" width="97%" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=mauryashivi199-ui&theme=tokyonight&border_radius=12&hide_border=true" alt="Continuous GitHub Streak" />
 </div>
 
 ---
